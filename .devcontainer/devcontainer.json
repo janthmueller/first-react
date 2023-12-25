@@ -1,0 +1,19 @@
+
+{
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"expo.vscode-expo-tools",
+				"msjsdiag.vscode-react-native",
+				"mgmcdermott.vscode-language-babel",
+
+			]
+		}
+	},
+
+	"forwardPorts": [ 19000, 19001, 19002 ]
+}
