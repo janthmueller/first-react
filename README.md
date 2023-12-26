@@ -7,10 +7,11 @@
 macbe check out later if connection problems occur:
 https://fuszti.com/how-to-create-your-react-native-devcontaiener-with-rest-api/
 ### Github Pages Deployment
+- https://docs.expo.dev/distribution/publishing-websites/
 - https://github.com/gitname/react-gh-pages
 ## Setup
 ### Notes
 ```bash
-cd first-react
-expo start --tunnel
+cd my-app
+npx expo start --tunnel
 ```
